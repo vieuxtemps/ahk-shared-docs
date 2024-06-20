@@ -42,7 +42,7 @@ https://www.autohotkey.com/boards/viewtopic.php?f=17&t=62266
 
 Some of the current AV vendors currently flagging AutoHotkey-compiled projects (independent of their content) are:
 
-- Jiangmin, Bkav Pro, Cynet, Zillya
+- Jiangmin, Bkav Pro, Cynet, Zillya, Skyhigh (SWG)
 
 All my recent releases are compiled/bundled with AutoHotkey v1.1.37.01 (source: [GitHub](https://github.com/AutoHotkey/AutoHotkey/releases/tag/v1.1.37.01)), with the following SHA256 hashes:
 

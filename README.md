@@ -7,15 +7,15 @@ This is the shared documentation page for all my AutoHotkey projects.
 
 If you wish an application to run automatically at startup:
 
-- Open the `Run` command window: Press `Win+R`, or type `Run` in the start menu
-- Run `shell:startup`
-- Create a shortcut there (for either the `.ahk` or `.exe` files)
+- Open the `Run` command window — press `Win+R`, or type `Run` in the start menu.
+- Run `shell:startup`.
+- Create a shortcut there (for either the `.ahk` or `.exe` files).
 
-# Automatically running at startup (elevated/administrator user privileges)
+# Automatically running at startup (elevated/administrator privileges)
 
 Some applications running with elevated privileges will completely ignore external input when being sent from an application being run with normal privileges. Examples: Task Manager, System settings and other System tools.
 
-If you wish an application to run automatically at startup with elevated/administrator user privileges:
+If you wish an application to run automatically at startup with elevated/administrator user privileges, one solution is creating a startup task:
 
 ## Manually creating a task
 
